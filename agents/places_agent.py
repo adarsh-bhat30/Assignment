@@ -18,3 +18,4 @@ class PlacesAgent(ParentAgent):
             "attractions": attractions
         }
 
+

@@ -38,3 +38,4 @@ def get_weather(latitude: float, longitude: float) -> Optional[Tuple[float, floa
         print(f"Weather service error: {e}")
         return None
 
+

@@ -36,3 +36,4 @@ def geocode_city(city_name: str) -> Optional[Tuple[float, float]]:
         print(f"Geocoding error: {e}")
         return None
 
+
